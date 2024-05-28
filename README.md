@@ -1,1 +1,2 @@
-# odin-recipes
+# odin-recipes 
+Today I will be creating a simple recipe site with the html skills that I have recently relearned. I want to make it clear that this is not my first rodeo but remind myself that even so, I must not underestimate the curriculumn and be repared for any challengews that lie ahead. 
